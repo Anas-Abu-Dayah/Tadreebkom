@@ -1,0 +1,41 @@
+class AppRoute {
+  static const String login = '/login';
+  static const String signup = '/signup';
+  static const String role = '/role';
+  static const String signupcenter = '/center';
+  static const String forgetpassword = '/forgetpassword';
+  static const String verifycode = '/verifycode';
+  static const String resetpassword = '/resetpassword';
+  static const String successresetpassword = '/successresetpassword';
+  static const String successSignup = '/successSignup';
+  static const String verifyCodeSignup = '/VerifyCodeSignUp';
+  static const String addressstudent = '/addressstudent';
+  static const String addresscenter = '/addresscenter';
+  static const String verifycodecenter = '/verifycodecenter';
+  static const String homepage = '/homepage';
+  static const String verifycodelogin = '/verifycodelogin';
+  static const String centerhomepage = '/centerhomepage';
+  static const String verifycodecenterpage = '/verifycodecenterpage';
+  static const String instructorsignup = '/instructorsignup';
+  static const String instructorsuccesspage = '/instructorsuccesspage';
+  static const String centerprofilepage = '/centerprofilepage';
+  static const String adminPendingCentersView = '/AdminPendingCentersView';
+  static const String adminAllCentersView = '/AdminAllCentersView';
+  static const String adminAllInstructorsView = '/AdminAllInstructorsView';
+  static const String navbar = '/';
+  static const String home = '/home';
+  static const String search = '/search';
+  static const String activity = '/activity';
+  static const String settings = '/settings';
+  static const String booking = '/booking';
+  static const String checkout = '/checkout';
+  static const String newCard = '/newCard';
+  static const String centerProfileView = '/centerProfileView';
+  static const String userProfilePage = '/UserProfilePage';
+  static const String instructorNavBarView = '/InstructorNavBarView';
+  static const String instructorProfilePage = '/InstructorProfilePage';
+  static const String instructorProfilePageView = '/InstructorProfilePageView';
+  static const String centerSchedulePageView = '/CenterSchedulePageView';
+  static const String studentInstructorProfilePageView =
+      '/StudentInstructorProfilePageView';
+}

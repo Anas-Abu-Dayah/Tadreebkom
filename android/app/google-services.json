@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "651870655421",
+    "project_id": "tadreebkom",
+    "storage_bucket": "tadreebkom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651870655421:android:caaf0e41eeca5a1831f8d4",
+        "android_client_info": {
+          "package_name": "com.example.tadreebkomapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651870655421-lffp9vg66fejl4bjg7oqudmqf7tad6ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjPecczDvxR2yHcNULGcU0cNidCwsd9Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651870655421-lffp9vg66fejl4bjg7oqudmqf7tad6ja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651870655421-0d2m5m8r9q6p0qe1oa8s2bjhuvtp85e2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tadreebkomapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
