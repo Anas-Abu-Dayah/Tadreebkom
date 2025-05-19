@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 Future<void> sendOtpWithSendGrid(String recipientEmail, String otp) async {
   const String apiKey =
-      "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";
+      "API";
   const String sendGridUrl = "https://api.sendgrid.com/v3/mail/send";
 
   final Map<String, dynamic> emailData = {
