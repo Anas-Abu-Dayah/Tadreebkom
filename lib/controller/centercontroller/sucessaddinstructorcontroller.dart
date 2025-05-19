@@ -37,7 +37,7 @@ class SuccessAddInstructorControllerImp extends SuccessAddInstructorController {
     String username,
   ) async {
     const String apiKey =
-        "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";
+        "API";
     const String sendGridUrl = "https://api.sendgrid.com/v3/mail/send";
 
     final emailData = {
